@@ -19,6 +19,9 @@ During our analysis, we use the panda function within python to create data fram
 ## Summary 
 Based on the project and the data analysis during the project I would recommened the following for this ride sharing company.
 
--- Continue to leverage urban drivers for rides. Right now, this is your cash cow. Offer promotions, free rides for people who share the app, free rides for first time users etc. 
--- Encourage drivers with larger cars to hang around the suburban areas. Most suburban homes have families and will need a larger car to haul their family around. 
--- The rural cities have the largest average fare per ride. This is a great market to continue to develop your product. I would offer some discount rides over a certain mile or time range. Additionally, as people move from the city to rural places during COVID, it is a great time to market that fun trip to a destination of your choice. 
+ -- Continue to leverage urban drivers for rides. Right now, this is your cash cow. Offer promotions, free rides for people who share the app, free rides for first time users etc.
+ 
+ -- Encourage drivers with larger cars to hang around the suburban areas. Most suburban homes have families and will need a larger car to haul their family around. 
+ 
+ -- The rural cities have the largest average fare per ride. This is a great market to continue to develop your product. I would offer some discount rides over a certain mile or time range. Additionally, as people move from the city to rural places during COVID, it is a great time to market that fun trip to a destination of your choice. 
+ 
